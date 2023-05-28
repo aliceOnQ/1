@@ -1,0 +1,111 @@
+[
+    { 
+      "id": "1",
+      "category": "Fashion",
+      "author": "NCT 127",
+      "name": "Cherry Bomb Dad Hat",
+      "sku": "NCT",
+      "price": 27.17,
+      "image": "/images/@smglobalshop 2023-03-31__003819.JPEG",
+      "description": "Keep warm with the cozy Domino wool throw from Klippan Yllefabrik. Klippan Yllefabric was founded in 1879 with a philosophy to combine Swedish ",
+      "currency": "USD",
+      "countInStock": 9    
+    },
+    {
+      "id": "2",
+      "category": "Exclusive",
+      "author": "SHINee",
+      "name": "11 Anniversary Collect Book",
+      "sku": "SHINee",
+      "price": 55.00,
+      "image": "/images/67119651_2322521471322496_4711063822526954047_n.JPG",
+      "description": "The Pom Pom cushion 45x45 cm from the Swedish By On is a pure dream for those who love soft and cosy styles of decor. This wonderful cushion.",
+      "currency": "USD",
+      "countInStock": 5    
+    },
+    {
+      "id": "3",
+      "category": "Doll",
+      "author": "BAEKHYUN",
+      "name": "[Teo-Lae-Gi]Flat Magnet Ver.",
+      "sku": "EXO",
+      "price": 10.85,
+      "image": "/images/pre-order-teo-lae-gi-flat-magnet-ver-you-have-to-protect-me-620429_2400x.jpg.webp",
+      "description": "The beautiful Rustic mug from House Doctor is made of ceramics and has an appealing glaze in grey and blue that contributes to a rustic.",
+      "currency": "USD",
+      "countInStock": 6 
+    },
+    {
+      "id": "4",
+      "category": "Photobook",
+      "author": "Girls' Generation-Oh!GG",
+      "name": "SEASON'S GREETING 2023",
+      "sku": "SNSD",
+      "price": 41.58,
+      "image": "/images/snsd oh gg 2022 season's greetings (2).jpg",
+      "description": "These Essence white wine glasses were designed by Alfredo Häberli in 2001. The style and the elegance of these glasses will make your dining",
+      "currency": "USD",
+      "countInStock": 9 
+    },
+    {
+      "id": "5",
+      "category": "Exclusive",
+      "author": "NCT",
+      "name": "Empathy 2018 Stationary Clip",
+      "sku": "NCT",
+      "price": 82.00,
+      "image": "/images/koreas-exclusive-product-nct-empathy-2018-stationary-clip-with-tin-case-474560_2400x.jpg",
+      "description": "Cas plays modern with rustic wood, framing the rich color and defined grain of natural oak veneer in dark grey high-gloss lacquer.",
+      "currency": "USD",
+      "countInStock": 7 
+    },
+    {
+      "id": "6",
+      "category": "Exclusive",
+      "author": "Super Junior",
+      "name": "One More Chance Mini Notebook",
+      "sku": "SJ",
+      "price": 68.20,
+      "image": "/images/koreas-exclusive-product-super-junior-one-more-chance-mini-binder-notebook-673975_2400x.jpg",
+      "description": "The Nova bin by the Danish brand Zone Denmark is the perfect little bin for the bathroom. The bin opens with a foot pedal and is easy to",
+      "currency": "USD",
+      "countInStock": 3 
+    },
+    {
+      "id": "7",
+      "category": "Concert",
+      "author": "SHINee",
+      "name": "Official Fanlight",
+      "sku": "SHINee",
+      "price": 37.62,
+      "image": "/images/shinee-official-fanlight-lightstick-accessories-shinee-default-title-254481_2400x.jpg.webp",
+      "description": "Renew your home with the trendy Silvia lamp in white designed by the Danish brand Umage / Vita. Silvia is a lampshade made of polypropylene.",
+      "currency": "USD",
+      "countInStock": 3
+    },
+    {
+      "id": "8",
+      "category": "Exclusive",
+      "author": "Red Velvet",
+      "name": "Who Dat Boy Wide Tape",
+      "sku": "RV",
+      "price": 27.90,
+      "image": "/images/koreas-exclusive-product-red-velvet-who-dat-boy-wide-tape-accessories-red-velvet-139188_2400x.jpg",
+      "description": "The charming Luciakör electric advent candle holder is a Christmas classic from Star Trading. This candle holder is made of painted wood ...",
+      "currency": "USD",
+      "countInStock": 5
+    },  
+    {
+      "id": "9",
+      "category": "Album",
+      "author": "TAEYEON",
+      "name": "The 3rd Album 'INVU'(Tape ver.)",
+      "sku": "SNSD",
+      "price": 22.00,
+      "image": "/images/taeyeon-the-3rd-album-invu-tape-ver-755665_2400x.jpg",
+      "description": "The High Dot stool leather from Fritz Hansen is a stable little seat made from premium leather and three legs of quality steel.",
+      "currency": "USD",
+      "countInStock": 3 
+    }
+  ]
+  

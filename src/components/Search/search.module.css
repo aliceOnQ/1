@@ -1,0 +1,11 @@
+.search{
+    width:37.5rem;
+    
+   
+}
+@media (max-width: 768px) {
+    .search{
+        width: 17.625rem;
+        
+    }
+  }
