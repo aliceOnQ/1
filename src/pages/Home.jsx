@@ -13,7 +13,7 @@ function Home() {
     return (
         <div className="mainLayout">
             <Helmet>
-                <title>SMTOWN&SHOP</title>
+                <title>Teddy Land</title>
                 <style>{`
             body { 
               background-color: ${colorBg};

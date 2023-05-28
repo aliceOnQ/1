@@ -9,13 +9,17 @@ export default function NavBar({ open, onClose }) {
                 className={({ isActive }) => (isActive ? styles.navItemActive : styles.navItem)}>
                 Artist
             </NavLink>
+            <NavLink to="/shop"
+                className={({ isActive }) => (isActive ? styles.navItemActive : styles.navItem)}>
+                Shop
+            </NavLink>
             <NavLink to="/about"
                 className={({ isActive }) => (isActive ? styles.navItemActive : styles.navItem)}>
                 About
             </NavLink>
-            <NavLink to="/shop"
+            <NavLink to="/Signin"
                 className={({ isActive }) => (isActive ? styles.navItemActive : styles.navItem)}>
-                Shop
+                Signin
             </NavLink>
         </>
     )

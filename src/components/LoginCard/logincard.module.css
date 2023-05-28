@@ -1,0 +1,112 @@
+.loginForm {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 30rem;
+	padding: 2rem;
+}
+.newsTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  padding: 0;
+  color: rgb(0, 0, 0);
+  font-family: 'Cubic';
+}
+
+@media (min-width: 768px) {
+  .newsTitle {
+    font-size: 3rem;
+  }
+}
+
+.hrHeaderLine {
+  margin: 25px auto 30px;
+  padding: 0;
+  width: 150px;
+  border: 0;
+  border-top: solid 6px;
+  border-color: #f08840;
+  opacity: 1;
+}
+
+.loginForm__remember {
+  margin-right: 2rem;
+  color: #fe9e49;
+  font-family: 'Cubic';
+}
+.loginForm__or {
+  font-family: 'Cubic';
+}
+.loginForm__forgot {
+  color: #fe9e49;
+  font-family: 'Cubic';
+}
+.loginForm__forgot:hover {
+  color: #fabc47 !important;
+}
+.loginForm__register {
+  margin-right: 2rem;
+  color: #fe9e49;
+  font-family: 'Cubic';
+}
+.loginForm__register:hover {
+  color: #fabc47 !important;
+}
+.loginForm__button {
+  width: 100%;
+  color: #ffffff;
+  background-color:#fe9e49;
+  border: none;
+	border-radius: 0.7rem;
+  font-family: 'Cubic';
+}
+
+.loginForm__button:hover {
+  background-color: #fabc47 !important;
+  transition: all 0.5s;
+}
+
+.loginForm__button:focus {
+  background-color:#fe9e49;
+  border: none;
+  opacity: 0.8;
+}
+
+.loginForm__successWrap {
+  margin-top: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.7rem;
+  width: 80%;
+  border: solid 1px green;
+  border-radius: 4px;
+}
+
+.loginForm__successTitle {
+  color: green;
+  text-align: center;
+}
+
+.loginForm__errorWrap {
+  margin-top: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.7rem;
+  width: 80%;
+  border: solid 1px darkred;
+  border-radius: 4px;
+}
+
+.loginForm__errorTitle {
+  color: darkred;
+}
+
+.loginForm__errorMessage {
+  padding-top: 0;
+  margin-top: 0;
+  font-size: 0.5rem;
+}
